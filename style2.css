@@ -1,0 +1,45 @@
+body{
+	font-family:ariel black;
+}
+.my-container{
+	
+	background-image:url(header.jpg);
+	background-position: center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	height:605px;
+
+}
+
+.my-row1{color:white;
+		height:220px;}
+
+.my-row2{color:white;
+		height:200px;
+
+}
+h1{
+	font-size:20px;
+	text-transform:uppercase;
+}
+.my-col1{
+	color:white;
+	text-align: center;
+}
+.my-col2{
+	text-align: center;
+	background-color:orange;
+	color:white;
+	border-radius:30px;
+	text-decoration:none;
+	margin-bottom: ;
+	}
+
+a {	font-size: 22px;
+	color:white;
+	text-decoration: none;}
+
+
+a:hover{ color:red; text-decoration: none;
+	}	  
+	
